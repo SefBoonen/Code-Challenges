@@ -1,2 +1,2 @@
 # Code Challenges
-This repo contains some code challenges I hae completed
+This repo contains some code challenges I have completed
